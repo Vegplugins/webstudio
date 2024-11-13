@@ -92,6 +92,7 @@ main {
   justify-content: center;
   flex-direction: column;
   background: url("./img/main/main-background.png");
+  
 }
 
 .mainsection1 h1 {
@@ -127,8 +128,9 @@ main {
 }
 
 .mainfeatures {
-  height: 767px;
+
   padding: 94px 0;
+  
 }
 
 .mainfeatures ul {
@@ -195,6 +197,7 @@ main {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  
 }
 
 .mainteam h2 {
