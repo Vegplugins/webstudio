@@ -167,6 +167,7 @@ main {
   justify-content: center;
   flex-wrap: wrap;
   gap: 30px;
+ 
 }
 
 .portfolio .card {
@@ -178,6 +179,8 @@ main {
   justify-content: flex-start;
   flex-direction: column;
   color: var(--light-text);
+    box-shadow: 0px 2px 1px gray  ;
+  
 }
 
 .card img {
@@ -236,3 +239,4 @@ footer address {
   color: var(--blue-color);
   font-size: 26px;
 }
+
